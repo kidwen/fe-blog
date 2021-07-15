@@ -66,7 +66,7 @@
 20. [字节：字节面试题 Excel 表格随机生成 1000 列](https://github.com/6fedcom/fe-blog/blob/master/handwrittenCode/字节面试题Excel表格随机生成1000列.md)
 21. [字节：二叉树&完整路径和](https://github.com/6fedcom/fe-blog/blob/master/leetcode/112.路径总和.md)
 22. [常见排序算法以及复杂度](https://github.com/6fedcom/fe-blog/blob/master/handwrittenCode/常见排序算法以及复杂度.md)
-23. [字节：合并两个有序数组](https://github.com/6fedcom/fe-blog/blob/master/handwrittenCode/字节面试题：合并两个有序数组.js)
+23. [字节：合并两个有序数组](https://github.com/6fedcom/fe-blog/blob/master/handwrittenCode/字节面试题：合并两个有序数组.md)
 
 ### 前端知识点
 
@@ -75,6 +75,8 @@
 [js 事件循环]()
 
 [前端性能优化](https://github.com/6fedcom/fe-blog/blob/master/前端知识点/前端性能优化.md)
+
+[Map 与 WeakMap 的区别](https://github.com/6fedcom/fe-blog/blob/master/前端知识点/Map与WeakMap的区别.md)
 
 ---
 
@@ -125,8 +127,6 @@
 [35.搜索插入位置（easy）](https://github.com/6fedcom/fe-blog/blob/master/leetcode/35.搜索插入位置.md)
 
 [88.合并两个有序数组（easy）](https://github.com/6fedcom/fe-blog/blob/master/leetcode/88.合并两个有序数组.md)
-
-191.位 1 的个数（easy）https://leetcode-cn.com/problems/number-of-1-bits/
 
 581.最短无序连续子数组（easy）https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
 
